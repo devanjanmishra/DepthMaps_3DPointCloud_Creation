@@ -11,17 +11,19 @@ Both the models offer great depth accuracy, but Metric 3D model stood out for me
 Metric3D models also provides with normal estimations from the model itself, rather relying on external libraries like opencv,open3d which is an additional benefit.
 Sample Inclusion from [output](https://github.com/devanjanmishra/DepthMaps_3DPointCloud_Creation/tree/main/data/sample_output):
 
-<div style="display: flex; justify-content: space-around; align-items: flex-start;">
-  <div style="text-align: center; width: 33%;">
+<div style="display: flex; justify-content: space-around;">
+  <div style="flex: 1; text-align: center;">
     <p><strong>Input: RGB Image</strong></p>
-    <img src="data/sample_input/IMG20240610231100.jpg" alt="Image 1" style="width: 100%;"/>
+    <img src="data/sample_input/IMG20240610231100.jpg" alt="Image 1" style="max-width: 100%;"/>
   </div>
-  <div style="text-align: center; width: 34%;">
+  <div style="flex: 1; text-align: center;">
     <p><strong>Output: Depth Image</strong></p>
-    <img src="data/sample_output/depth.jpg" alt="Image 2" style="width: 100%;"/>
+    <img src="data/sample_output/depth.jpg" alt="Image 2" style="max-width: 100%;"/>
   </div>
-  <div style="text-align: center; width: 33%;">
+  <div style="flex: 1; text-align: center;">
     <p><strong>Output: Normals Image</strong></p>
-    <img src="data/sample_output/normal.jpg" alt="Image 3" style="width: 100%;"/>
+    <img src="data/sample_output/normal.jpg" alt="Image 3" style="max-width: 100%;"/>
   </div>
 </div>
+
+
