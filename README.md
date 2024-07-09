@@ -47,7 +47,6 @@ This project uses the following resources:
   journal={arXiv preprint arXiv:2404.15506},
   year={2024}
 }
-- [Another Resource](https://link-to-resource) - Description of the resource and its application in the project.
 
 ## License
 The Metric 3D code is under a 2-clause BSD License for non-commercial usage. For further questions, contact Dr. Wei Yin [yvanwy@outlook.com] and Mr. Mu Hu [mhuam@connect.ust.hk].
